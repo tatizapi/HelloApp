@@ -10,4 +10,9 @@ public class Hello
     {
         System.out.println("whatevar");
     }
+
+    public void g()
+    {
+        System.out.println("psst");
+    }
 }
